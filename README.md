@@ -1,2 +1,2 @@
-# CPE106L-4-E01
+# cpe106l-lab1
 Software Design Laboratory 
